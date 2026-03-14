@@ -3,8 +3,11 @@
 **Audit Date:** 2026-03-14
 **URL:** https://deepchandgroup.com
 **Business Type:** Hybrid (Local Business / Services / E-commerce)
-**Pages Analyzed:** 7 (via search index; direct site access restricted)
+**Pages Analyzed:** 10 (via search index; direct site access restricted)
 **Divisions Identified:** Deepchand Bakers, Celebrations, Weddings, Enterprises, Ventures
+**Product Brands:** D'Luxe, Denor (personal care/home care via Deepchand Ventures)
+**Primary Contact:** +919437700019 / +919439460019 | info@deepchandgroup.com
+**Location:** Shop 3, Ashok Lodge Complex, Gandhi Chowk, Bhawanipatna, Kalahandi, Odisha 766001
 
 > **Note:** This audit was conducted using search engine intelligence, cached data, and platform analysis. Direct site crawling was not possible due to network restrictions. Scores may be conservative; a follow-up crawl-based audit is recommended for precise technical scoring.
 
@@ -14,7 +17,7 @@
 
 **Overall GEO Score: 23/100 (Critical)**
 
-Deepchand Group is a multi-division local business in Bhawanipatna, Odisha, India operating across bakery, celebrations, weddings, enterprises, and personal care manufacturing. The group is **largely invisible to AI search engines**. There is no Wikipedia presence, no LinkedIn company page, no YouTube channel, no Reddit discussions, no llms.txt file, and likely no structured data (schema markup) on the website. While the bakery division has some presence on food delivery platforms (Swiggy, Zomato, Magicpin), the group's brand authority signals are almost entirely absent from the platforms that AI models rely on for entity recognition and citation. The site's multi-subdomain architecture (deepchandgroup.com, bakers.deepchandgroup.com, ventures.deepchandgroup.com, deepchand.in) also fragments whatever limited authority exists.
+Deepchand Group is a multi-division local business in Bhawanipatna, Odisha, India operating across bakery (100% vegetarian, designer cakes), celebrations/weddings, enterprises, and personal care/home care manufacturing (D'Luxe and Denor brands via Deepchand Ventures, founded 2024). The group is **largely invisible to AI search engines**. There is no Wikipedia presence, no LinkedIn company page, no YouTube channel, no Reddit discussions, no llms.txt file, and likely no structured data (schema markup) on the website. While the bakery division has some presence on food delivery platforms (Swiggy 4.5-star rating, Zomato, Magicpin) and social media (Facebook, Instagram @deepchandbakers), the group's brand authority signals are almost entirely absent from the platforms that AI models rely on for entity recognition and citation. The site's multi-subdomain architecture (deepchandgroup.com, bakers.deepchandgroup.com, ventures.deepchandgroup.com, deepchand.in) also fragments whatever limited authority exists. The founder's name is not publicly disclosed, which further weakens entity recognition.
 
 ### Score Breakdown
 
@@ -22,11 +25,11 @@ Deepchand Group is a multi-division local business in Bhawanipatna, Odisha, Indi
 |---|---|---|---|
 | AI Citability | 22/100 | 25% | 5.5 |
 | Brand Authority | 18/100 | 20% | 3.6 |
-| Content E-E-A-T | 28/100 | 20% | 5.6 |
+| Content E-E-A-T | 30/100 | 20% | 6.0 |
 | Technical GEO | 38/100 | 15% | 5.7 |
 | Schema & Structured Data | 8/100 | 10% | 0.8 |
 | Platform Optimization | 15/100 | 10% | 1.5 |
-| **Overall GEO Score** | | | **22.7 ≈ 23/100** |
+| **Overall GEO Score** | | | **23.1 ≈ 23/100** |
 
 ---
 
@@ -160,6 +163,21 @@ Based on search index analysis, the Deepchand Group website appears to be primar
 | TripAdvisor | Present (Minimal) | Listed but no substantial reviews. |
 | Magicpin | Present | Basic listing. |
 | Google Business Profile | Likely Present | Implied by delivery platform listings. |
+| Wikidata | Absent | No structured entity data. |
+
+**Additional Detail — Deepchand Bakers Products (from Zomato/Swiggy/Instagram):**
+- Aloo Patties, Choco Lava Cake, Choco Chips Cake, Chocolate Fantasy Pastry, White Forest Pastry, Donuts, Truffle Cake, Black Forest Pastry
+- Fruit Cakes: Vanilla, Butterscotch, Strawberry, Blueberry, Pineapple, Black Currant, Mix Fruit, White Forest, White Velvet
+- Specialties: Hanging cakes, multi-layer designer cakes, animal-themed celebration cakes
+- Tagline: "Freshly baked, heavenly caked"
+- Allergen notice: Products may contain nuts, dairy, eggs, and wheat
+
+**Additional Detail — Deepchand Ventures (from ventures.deepchandgroup.com):**
+- Founded: 2024
+- Brands: D'Luxe, Denor
+- Services: State-of-the-art manufacturing, extensive distribution network, white-label/private-label manufacturing (formulation to packaging)
+- Claims: "Serves thousands of customers across India" — unverified externally
+- Vision: "India's most trusted manufacturer of personal care and home care products"
 
 **Brand Mention Score Breakdown:**
 - Wikipedia presence: 0/30
@@ -177,9 +195,9 @@ Based on search index analysis, the Deepchand Group website appears to be primar
 | Experience | 8/25 | Some evidence of hands-on baking experience from event photos on Facebook/Instagram. No case studies, no process documentation on website. |
 | Expertise | 6/25 | Owner described as "passionate baker" but no formal credentials, certifications, or expertise signals on the website. No author bylines. |
 | Authoritativeness | 5/25 | Local recognition only. No media mentions, no industry awards, no external citations. Limited to food delivery platform listings. |
-| Trustworthiness | 9/25 | Physical address available (Gandhi Chowk, Bhawanipatna). Phone number listed (+919437700019). Email (info@deepchandgroup.com). Terms page exists on bakers subdomain. Missing: privacy policy on main site, editorial standards, clear business registration info. |
+| Trustworthiness | 11/25 | Physical address available (Gandhi Chowk, Bhawanipatna). Phone numbers listed (+919437700019, +919439460019). Email (info@deepchandgroup.com). Terms page AND privacy policy exist on bakers subdomain. Listed on verified platforms (Zomato, Swiggy, TripAdvisor). Missing: editorial standards, clear business registration info, sourced claims on Ventures page. |
 
-**Overall E-E-A-T: 28/100**
+**Overall E-E-A-T: 30/100**
 
 **Content Gaps:**
 - No blog or informational content
@@ -187,7 +205,9 @@ Based on search index analysis, the Deepchand Group website appears to be primar
 - No case studies of celebrations/weddings managed
 - No founder story or team page with credentials
 - No customer testimonials aggregated on the website
-- Ventures subdomain claims to be "one of India's leading manufacturers" without supporting evidence
+- Ventures subdomain claims to be "one of India's leading manufacturers" without supporting evidence — this is a credibility red flag for AI systems that verify claims
+- Deepchand Ventures manufactures products under D'Luxe and Denor brands but no product-specific landing pages were found in search index
+- The bakery positions itself as "100% Vegetarian | Freshly Baked" with "Designer Cakes | Desserts | Icecreams & much more" — good differentiators that could be made more citable
 
 ### Technical GEO (38/100)
 
@@ -549,7 +569,11 @@ Sitemap: https://deepchandgroup.com/sitemap.xml
 | https://bakers.deepchandgroup.com/shop/product/b6e5a0fa... | Pineapple Cream Roll Paradise | UUID-based URL, no Product schema, likely thin description |
 | https://bakers.deepchandgroup.com/shop/product/56261813... | Choco Glass Elegance | UUID-based URL, no Product schema, likely thin description |
 | https://ventures.deepchandgroup.com/services | Deepchand Ventures | Separate subdomain, generic corporate language, no schema |
+| https://bakers.deepchandgroup.com/menu.pdf | Deepchand Bakers Menu | PDF content invisible to AI crawlers, should be HTML |
+| https://bakers.deepchandgroup.com/terms/ | Terms - Deepchand Bakers | Basic terms page, no schema |
+| https://bakers.deepchandgroup.com/privacy/ | Privacy - Deepchand Bakers | Privacy policy present (trust signal) |
 | https://deepchand.in/ | Deepchand Bakers | Duplicate domain, creates content cannibalization |
+| https://deepchand.in/celebrate-with-us | Celebrate with us | Celebrations services page on alternate domain |
 
 ---
 
